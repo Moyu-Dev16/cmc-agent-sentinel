@@ -4,11 +4,13 @@
 [![CoinMarketCap Pro API](https://img.shields.io/badge/Data-CoinMarketCap%20Pro%20API-1D4ED8.svg)](https://coinmarketcap.com/api/)
 [![Model Context Protocol](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-8B5CF6.svg)](https://modelcontextprotocol.io/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org/)
-[![DoraHacks](https://img.shields.io/badge/Hackathon-Build%20with%20CMC-00E599.svg)](https://dorahacks.io/hackathon/build-with-cmc)
+[![DoraHacks](https://img.shields.io/badge/Hackathon-Build%20with%20CMC-00E599.svg)](https://dorahacks.io/hackathon/coinmarketcap-api-202609/detail)
+[![X Announcement](https://img.shields.io/badge/X-Announcement%20Post-000000.svg?logo=x)](https://x.com/KHuoguo/status/2101521009707024784)
 
 > **Build with CMC: API Hackathon Submission**  
 > **Track 2: AI Agents and Automation**  
-> **Live Web Terminal & Simulation**: [https://moyu-dev16.github.io/cmc-agent-sentinel/](https://moyu-dev16.github.io/cmc-agent-sentinel/)
+> **Live Web Terminal & Simulation**: [https://moyu-dev16.github.io/cmc-agent-sentinel/](https://moyu-dev16.github.io/cmc-agent-sentinel/)  
+> **Official X / Twitter Announcement**: [https://x.com/KHuoguo/status/2101521009707024784](https://x.com/KHuoguo/status/2101521009707024784)
 
 ---
 
